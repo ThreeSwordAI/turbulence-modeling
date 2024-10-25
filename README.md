@@ -21,11 +21,7 @@ This project uses the "Turbulence Modeling using Machine Learning" dataset, avai
 3. Running the Project
    ```bash
    python src/main.py
-
-
-
-
-
+   
 ## Project Structure
 ```plaintext
 turbulence-modeling/
